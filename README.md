@@ -16,7 +16,7 @@ This repository contains the source code for a simple Python Flask web applicati
 4. Edit Files.
   - Open index.html file and replace `Enter your reCAPTCHA key here. To Generate it: https://cloud.google.com/recaptcha-enterprise/docs/create-key-website` with your real reCAPTCHA key.
   - Open main.py and replace `YourPythonAnywhereUsername` with your real [pythonanywhere](https://www.pythonanywhere.com/) username.
-6. Run the application: `flask run`
+5. Run the application: `flask run`
 
 ## 🌍 Live Application
 You can access the live application at https://uom-library-registration.pages.dev/
